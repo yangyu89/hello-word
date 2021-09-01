@@ -1,6 +1,5 @@
 this file is created with sourcetree
 
-<<<<<<< HEAD
 main branch
 
 do the change in the workspace new.txt at 3:17 PM
@@ -8,7 +7,7 @@ do the change in the workspace new.txt at 3:17 PM
 do the change in the workspace new.txt at 8/25 3:44 PM
 =======
 this is teh second add
->>>>>>> 0093f4607e8d83f2e038178e23c28aa9ae37df5f
+
 
 add info on 0830
 
@@ -22,4 +21,8 @@ add info on 0901 09:06Am
 
 add info on 0901 09:34AM
 
+
 add info on 0901 10:35AM
+
+add info on 0901 10：20AM
+
